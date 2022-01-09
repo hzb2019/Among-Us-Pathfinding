@@ -1,7 +1,7 @@
 <h1>Project 5: Graphs</h1>
 <p><strong>Due: Thursday, December 2nd @ 8:00 pm</strong></p>
 <p><em>This is not a team project, do not copy someone else&rsquo;s work.</em></p>
-<p><em>Project based on contributions by Adam Kasumovic, Andrew Haas, Brooke Osterkamp</em></p>
+<p><em>Project based on contributions by Adam Kasumovic, Andrew Haas, Brooke Osterkamp, Andrew McDonald, Tanawan Premsri, and Andy Wilson</em></p>
 <p>&nbsp;</p>
 <h2>Assignment Overview</h2>
 <p>Graphs are particularly useful data structures for modeling connections and relationships among objects. In fact, you've likely used an application that relies on graphical modeling today - a few examples include</p>
